@@ -1,6 +1,9 @@
 # vue-crud
 
 > A Vue.js project
+> ตัวอย่าง TodoList
+> ![Capture121](https://user-images.githubusercontent.com/55387327/110961510-76613000-8382-11eb-9d2b-bf558252c2cb.PNG)
+
 
 ## Build Setup
 
